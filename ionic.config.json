@@ -1,0 +1,8 @@
+{
+  "name": "coleta-legal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "950ea32e"
+}
