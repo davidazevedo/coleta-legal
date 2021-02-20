@@ -1,13 +1,12 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "coleta-legal",
+  "appId": "com.aks.reactionicfb",
+  "appName": "reactionicfb",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 0
-    }
-  },
-  "cordova": {}
+  "cordova": {},
+  "server": {
+    "url": "http://192.168.56.1:8100",
+    "cleartext": true
+  }
 }
